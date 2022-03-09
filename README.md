@@ -7,9 +7,8 @@
 ## Hyperparameter
 * learning_rate = 0.003
 * batch_size = 30
-* iter_num = 12000
+* iter_num = 100000
 
 ## Result
-* Trained Epoch: 100000
 * Train_acc: 0.967033
 * Test_acc: 0.948905
