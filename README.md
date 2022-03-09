@@ -1,7 +1,8 @@
 # breast_cancer_prediction-LogisticR
 
-* Dataset: Breast Cancer Wisconsin, UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/index.php)
+* Structured Dataset: Breast Cancer Wisconsin, UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/index.php)
 * Used Model: Logistic Regression
+* Details: Unsupervise Learning, Classification
 
 ## Hyperparameter
 * learning_rate = 0.003
