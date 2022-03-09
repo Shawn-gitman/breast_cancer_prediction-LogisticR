@@ -4,7 +4,7 @@
 * Used Model: Logistic Regression
 * Details: Unsupervise Learning, Classification
 
-# Dataset Columns
+## Dataset Columns
 ```rb
 column_names = ['Patient_ID','Clump_Thickness','Uniformity_of_CellSize','Uniformity_of_CellShape','Marginal_Adhesion','Single_Epithelial_Cell_Size','Bare_Nuclei','Bland_Chromatin','Normal_Nucleoli','Mitoses','Class']
 ```
