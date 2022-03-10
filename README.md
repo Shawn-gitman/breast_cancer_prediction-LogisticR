@@ -2,7 +2,7 @@
 
 * Structured Dataset: Breast Cancer Wisconsin, UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/index.php)
 * Used Model: Logistic Regression
-* Details: Unsupervise Learning, Classification
+* Specification: Unsupervised Learning, Classification
 
 ## Dataset Columns
 ```rb
