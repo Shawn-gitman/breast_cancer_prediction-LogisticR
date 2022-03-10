@@ -17,4 +17,5 @@ column_names = ['Patient_ID','Clump_Thickness','Uniformity_of_CellSize','Uniform
 ## Results
 * Train_acc: 0.967033
 * Test_acc: 0.948905
+
 ![Watch the video](mod_res.jpeg)
